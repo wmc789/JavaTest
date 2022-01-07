@@ -7,3 +7,4 @@ log.txt
 /grails-website
 /example-make-own-Pizza
 /demo
+.gitignore
