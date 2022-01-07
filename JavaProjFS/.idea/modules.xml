@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Audio/Audio.iml" filepath="$PROJECT_DIR$/Audio/Audio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Button/Button.iml" filepath="$PROJECT_DIR$/Button/Button.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Checkbox/Checkbox.iml" filepath="$PROJECT_DIR$/Checkbox/Checkbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Combobox/Combobox.iml" filepath="$PROJECT_DIR$/Combobox/Combobox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicPolymorphism/DynamicPolymorphism.iml" filepath="$PROJECT_DIR$/DynamicPolymorphism/DynamicPolymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" filepath="$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileClass/FileClass.iml" filepath="$PROJECT_DIR$/FileClass/FileClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlowLayout/FlowLayout.iml" filepath="$PROJECT_DIR$/FlowLayout/FlowLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ForLoopElement/ForLoopElement.iml" filepath="$PROJECT_DIR$/ForLoopElement/ForLoopElement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GUI/GUI.iml" filepath="$PROJECT_DIR$/GUI/GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GUIWindow/GUIWindow.iml" filepath="$PROJECT_DIR$/GUIWindow/GUIWindow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Input/Input.iml" filepath="$PROJECT_DIR$/Input/Input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjFS.iml" filepath="$PROJECT_DIR$/JavaProjFS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Label/Label.iml" filepath="$PROJECT_DIR$/Label/Label.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maps/Maps.iml" filepath="$PROJECT_DIR$/Maps/Maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MapsExtended/MapsExtended.iml" filepath="$PROJECT_DIR$/MapsExtended/MapsExtended.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NestedStatements/NestedStatements.iml" filepath="$PROJECT_DIR$/NestedStatements/NestedStatements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Objects I/Objects I.iml" filepath="$PROJECT_DIR$/Objects I/Objects I.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Print/Print.iml" filepath="$PROJECT_DIR$/Print/Print.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sets/Sets.iml" filepath="$PROJECT_DIR$/Sets/Sets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TextField/TextField.iml" filepath="$PROJECT_DIR$/TextField/TextField.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WriteFile/WriteFile.iml" filepath="$PROJECT_DIR$/WriteFile/WriteFile.iml" />
+    </modules>
+  </component>
+</project>
